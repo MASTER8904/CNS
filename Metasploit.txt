@@ -1,0 +1,15 @@
+TASK 2:
+Exploit
+Payload
+Singles
+Singles
+
+TASK 3:
+search apache
+todb
+
+TASK 4:
+set LPORT 6666
+setg RHOSTS 10.10.19.23
+unset PAYLOAD
+exploit

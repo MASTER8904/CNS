@@ -1,0 +1,31 @@
+TASK 3:
+Super Timeline
+File Hashes
+
+TASK 4:
+/var/log/nginx/access.log
+Path Traversal
+
+TASK 5:
+Automated
+Manual
+
+TASK 6:
+c701d43cc5a3acb9b5b04db7f1be94f6
+52
+145.76.33.201
+31/Jul/2023:12:34:40 +0000
+
+TASK 7:
+post=2[0-9]
+Grok
+
+TASK 8
+212.14.17.145
+THM{CYBERCHEF_WIZARD}
+08-2E-9A-4B-7F-61
+
+TASK 9
+YAML
+TITLE
+RULE

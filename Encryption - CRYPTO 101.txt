@@ -1,0 +1,30 @@
+TASK 2:
+passphrase
+
+TASK 3:
+Secure Shell
+certificates
+PCI-DSS
+
+TASK 4:
+0
+4
+3565
+
+TASK 5:
+Nay
+Triple DES
+Yea
+
+TASK 6:
+29239669
+
+TASK 8:
+Digital Signature
+
+TASK 9:
+RSA
+delicious
+
+TASK 11:
+pineapple

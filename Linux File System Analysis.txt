@@ -1,0 +1,25 @@
+TASK 2:
+THM{5514ec4f1ce82f63867806d3cd95dbd8}
+
+TASK 3:
+THM{0b1313afd2136ca0faafb2daa2b430f3}
+application/octet-stream
+2020-10-26 21:10:44.000000000 +0000
+
+TASK 4:
+b4ckd00r3d
+plugdev
+/usr/bin/pstree
+
+TASK 5:
+THM{f38279ab9c6af1215815e5f7bbad891b}
+THM{6ed90e00e4fb7945bead8cd59e9fcd7f}
+2024-02-13 00:34:16.005897449 +0000
+
+TASK 6:
+/etc/sudoers
+7063c3930affe123baecd3b340f1ad2c
+
+TASK 7:
+/var/tmp/findme.sh
+Warning

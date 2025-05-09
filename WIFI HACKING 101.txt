@@ -1,0 +1,21 @@
+TASK 1:
+brute force
+nay
+PSK
+8
+
+TASK 2:
+airmon-ng start wlan0
+wlan0mon
+airmon-ng check kill
+airodump-ng
+--BSSID
+--CHANNEL
+-w
+
+TASK 3
+-b
+-w
+-j
+greeneggsandham
+GPU

@@ -1,0 +1,15 @@
+TASK 3:
+C:\Program Files\DACL Service\daclservice.exe
+
+TASK 4:
+C:\Program Files\Unquoted Path Service\Common Files\unquotedpathservice.exe
+
+TASK 9:
+password123
+
+TASK 11:
+a9fdfa038c4b75ebc76dc855dd74f0da
+
+TASK 16:
+SeImpersonatePrivilege
+SeAssignPrimaryTokenPrivilege

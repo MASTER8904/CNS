@@ -1,0 +1,42 @@
+TASK 2:
+Too Easy!
+
+TASK 3:
+HIPS
+NIDS
+HIDS
+NIPS
+NBA
+full-blown
+baselining
+
+TASK 4:
+149
+4151
+1
+
+TASK 6:
+3009
+49313
+http://www.ethereal.com/development.html
+0x38AFFFF3
+41
+
+TASK 7:
+2
+
+TASK 8:
+170
+18
+3
+68
+340
+82
+1020
+
+TASK 9:
+TIMESTAMP REQUEST
+1
+216
+7
+rev
